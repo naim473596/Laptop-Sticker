@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.list_item li a{
+    font-size: 18px;
+    color: white;
+}
+.list_item li a:hover{
+    color: white;
+    text-decoration: underline;
+}
